@@ -1,5 +1,5 @@
 INSERT INTO
-    Customers (
+    customers (
         customer_id,
         customer_name,
         email,
