@@ -1,0 +1,3 @@
+SHOW INDEX FROM Books;
+
+SHOW COLUMNS FROM Books;
